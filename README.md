@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=80&duration=3000&pause=300&color=B73DF7&center=true&width=1500&height=120&lines=Welcome+to+my+profile!;My+name's+Samuel.;I'm+full-stack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=40&duration=3000&pause=300&color=B73DF7&center=true&width=1000&height=60&lines=Welcome+to+my+profile!;My+name's+Samuel.;I'm+full-stack+developer.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da900635-51e9-4174-bd64-3a582894f56c" alt="Typing SVG" />
@@ -14,15 +14,8 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+<div align="center">
 
-- 🎓 Instrutor academico em escola de programação.  
-- 👨‍🏫 Ministro workshops, monitorias e aulas de **HTML, CSS, JavaScript, Python e Git/GitHub**.
-- 🤝 Trabalho diariamente em equipe com outros programadores.
-- 🚀 Em constante evolução e aprendizado de novas tecnlogias.
-- 📍 Localização: Brasil 🇧🇷
-
----
 
 ### 🚀 Tecnologias que uso
 
@@ -52,13 +45,6 @@
       <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
     </td>
     <td align="center" valign="top">
-      <b>☁️ Sistemas Operacionais</b><br><br>
-      <img src="https://skillicons.dev/icons?i=linux" /><br>
-      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="3">
       <b>🗄️ Banco de Dados</b><br><br>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /><br>
       <img src="https://img.shields.io/badge/Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -70,12 +56,16 @@
 
 ### 🛠️ Ferramentas e Plataformas
 
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0175C2?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-2E2E2E?style=for-the-badge&logo=apple&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1F1F1F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+</div>
 
 ---
 
