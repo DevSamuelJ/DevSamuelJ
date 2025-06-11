@@ -1,84 +1,100 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&weight=600&duration=1500&pause=1000&color=0098F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+me+chamo+Samuel!;Sou+um+desenvolvedor+full+stack.;%C3%89+um+prazer+ter+voc%C3%AA+aqui!)](https://git.io/typing-svg)
-![github-header](https://github.com/user-attachments/assets/610e95af-9c1d-4775-aa6f-6f289b798244)
-##
-## 🎨 Sobre mim
-Sou apaixonado por **programação**, com um amor especial por linguagens como **Java**, **Lua** e **Python**. Sempre buscando aprender e melhorar em tudo o que faço, focando em **eficiência**, **limpeza de código** e **boas práticas**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=80&duration=3000&pause=300&color=B73DF7&center=true&width=1500&height=120&lines=Welcome+to+my+profile!;My+name's+Samuel.;I'm+full-stack+developer.)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da900635-51e9-4174-bd64-3a582894f56c" alt="Typing SVG" />
+</p>
+
+
+<!-- Banner animado -->
+<img src="https://github.com/user-attachments/assets/d1ad3104-e358-4e59-a28e-be4b708360e7" alt="Coding GIF" width="100%" />
+
+
+
+
 
 ---
 
-## 💻 Linguagens que eu uso:
+### 👨‍💻 Sobre mim
 
-- **Java**: 
-    - Essa foi a primeira linguagem que fui apresentado na faculdade, com enfase em **POO**.
-    - ⚡ **Exemplo**:
-    ```java
-    public class HelloWorld {
-        public static void main(String[] args) {
-            System.out.println("Olá, Mundo!");
-        }
-    }
-    ```
-- **JavaScript**: 
-    - Linguagem essencial para desenvolvimento web, sendo uma das que mais utilizo no dia a dia.
-    - ⚡ **Exemplo**: 
-    ```JavaScript
-    console.log("Olá, Mundo!");
-    
-    function saudacao(nome) {
-        return `Olá, ${nome}!`;
-    }
-    
-    console.log(saudacao("Mundo"));
+- 🎓 Instrutor academico em escola de programação.  
+- 👨‍🏫 Ministro workshops, monitorias e aulas de **HTML, CSS, JavaScript, Python e Git/GitHub**.
+- 🤝 Trabalho diariamente em equipe com outros programadores.
+- 🚀 Em constante evolução e aprendizado de novas tecnlogias.
+- 📍 Localização: Brasil 🇧🇷
 
-    ```
+---
 
-- **Python**:
-    - No meu curso de especialização em Full Stack, abordamos essa linguagem, que é uma das minhas **favoritas**.
-    - ⚡ **Exemplo**: 
-    ```python
-    print("Olá, Mundo!")
-    def saudacao(nome):
-        return f"Olá, {nome}!"
-    print(saudacao("Mundo"))
-    ```
+### 🚀 Tecnologias que uso
 
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <b>🧠 Linguagens</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,js,java,lua" />
+    </td>
+    <td align="center" valign="top">
+      <b>🧩 Back-End & Frameworks</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
+    </td>
+    <td align="center" valign="top">
+      <b>🎨 Front-End & UI/UX</b><br><br>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <b>🛠️ IDEs & Ferramentas</b><br><br>
+      <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio" />
+    </td>
+    <td align="center" valign="top">
+      <b>🔧 Versionamento & Metodologias</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github" /><br>
+      <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <b>☁️ Sistemas Operacionais</b><br><br>
+      <img src="https://skillicons.dev/icons?i=linux" /><br>
+      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <b>🗄️ Banco de Dados</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /><br>
+      <img src="https://img.shields.io/badge/Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
+---
 
+### 🛠️ Ferramentas e Plataformas
+
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueljdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueljdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
+---
 
-<h2 align="center">Atualmente estou usando:</h2>
+### 🌐 Conecte-se comigo
 
-##
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-jabes-pereira-da-silva-100211248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samuel701silva@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
+---
 
-</div>
-
-
-
-##
-
+<p align="center">Obrigado por visitar meu perfil! 🚀</p>
