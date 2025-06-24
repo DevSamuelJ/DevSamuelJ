@@ -4,14 +4,6 @@
   <img src="https://github.com/user-attachments/assets/da900635-51e9-4174-bd64-3a582894f56c" alt="Typing SVG" />
 </p>
 
-
-<!-- Banner animado -->
-<img src="https://github.com/user-attachments/assets/d1ad3104-e358-4e59-a28e-be4b708360e7" alt="Coding GIF" width="100%" />
-
-
-
-
-
 ---
 
 <div align="center">
@@ -63,7 +55,6 @@
 ![Git](https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 </div>
 
