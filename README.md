@@ -62,13 +62,17 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsamuelj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=DevSamuelJ&theme=tokyonight&card_width=400&hide_current_streak=true)](https://git.io/streak-stats"/>
   <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelj&layout=compact&langs_count=7&theme=tokyonight"/> -->
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsamuelj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /></td>
+      <td valign="top"><img height="180em" src="https://streak-stats.demolab.com?user=DevSamuelJ&theme=tokyonight&card_width=400&hide_current_streak=true"/></td>
+    </tr>
+  </table>
 </div>
 
----
 
 ### 🌐 Conecte-se comigo
 
