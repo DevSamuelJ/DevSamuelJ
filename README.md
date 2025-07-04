@@ -64,7 +64,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsamuelj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=DevSamuelJ&theme=tokyonight&hide_border=falso&short_numbers=falso&mode=weekly&hide_current_streak=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=DevSamuelJ&theme=tokyonight&hide_border=falso&short_numbers=falso&mode=weekly&hide_current_streak=true"/>
   <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelj&layout=compact&langs_count=7&theme=tokyonight"/> -->
 </div>
 
