@@ -41,7 +41,7 @@
   <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/IDEs%20%26%20Ferramentas-111827?style=for-the-badge&logoColor=white" /><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" /><br><br>
+      <img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" /><br><br>
       <img src="https://img.shields.io/badge/Kanban-1F2937?style=for-the-badge&logo=trello&logoColor=0052CC" />
     </td>
     <td align="center" width="50%">
@@ -60,7 +60,6 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0175C2?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-2E2E2E?style=for-the-badge&logo=apple&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1F1F1F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)
 
