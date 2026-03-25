@@ -11,38 +11,47 @@
 
 ### 🚀 Tecnologias que uso
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" valign="top">
-      <b>🧠 Linguagens</b><br><br>
-      <img src="https://skillicons.dev/icons?i=python,js,java,lua" />
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Linguagens-111827?style=for-the-badge&logoColor=white" /><br><br>
+      <img src="https://skillicons.dev/icons?i=java,js,ts,python,lua&theme=dark" />
     </td>
-    <td align="center" valign="top">
-      <b>🧩 Back-End & Frameworks</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
-    </td>
-    <td align="center" valign="top">
-      <b>🎨 Front-End & UI/UX</b><br><br>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Front--End%20%26%20UI%2FUX-111827?style=for-the-badge&logoColor=white" /><br><br>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,figma&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <b>🛠️ IDEs & Ferramentas</b><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio" />
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Back--End%20%26%20Frameworks-111827?style=for-the-badge&logoColor=white" /><br><br>
+      <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Spring%20Boot-1F2937?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+      <img src="https://img.shields.io/badge/Spring%20Security-1F2937?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" />
+      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-1F2937?style=for-the-badge&logo=spring&logoColor=6DB33F" />
     </td>
-    <td align="center" valign="top">
-      <b>🔧 Versionamento & Metodologias</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github" /><br>
-      <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Banco%20de%20Dados-111827?style=for-the-badge&logoColor=white" /><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/MySQL%20Workbench-1F2937?style=for-the-badge&logo=mysql&logoColor=4479A1" />
     </td>
-    <td align="center" valign="top">
-      <b>🗄️ Banco de Dados</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /><br>
-      <img src="https://img.shields.io/badge/Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/IDEs%20%26%20Ferramentas-111827?style=for-the-badge&logoColor=white" /><br><br>
+      <img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" /><br><br>
+      <img src="https://img.shields.io/badge/Kanban-1F2937?style=for-the-badge&logo=trello&logoColor=0052CC" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Versionamento-111827?style=for-the-badge&logoColor=white" /><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
